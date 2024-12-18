@@ -97,24 +97,6 @@ Checks for game-ending conditions (treasure found or health depleted).
 
 Displays updated maze and health after each move.
 
-How to Run
-
-Clone the repository:
-
-git clone https://github.com/yourusername/maze-adventure-game.git
-
-Navigate to the project directory:
-
-cd maze-adventure-game
-
-Compile the code using a C++ compiler (e.g., g++):
-
-g++ -o maze_game maze_game.cpp
-
-Run the executable:
-
-./maze_game
-
 Gameplay Instructions
 
 Use the following keys to move:
